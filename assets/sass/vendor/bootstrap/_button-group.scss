@@ -6,7 +6,7 @@
   position: relative;
   display: inline-flex;
   vertical-align: middle; // match .btn alignment given font-size hack above
-
+  margin: auto;
   > .btn {
     position: relative;
     flex: 1 1 auto;
